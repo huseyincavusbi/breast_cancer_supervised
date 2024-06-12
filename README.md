@@ -1,4 +1,4 @@
-# Breast Cancer Supervised Learning
+# Supervised Learning on Breast Cancer
 ## Supervised Learning Experiments on Wisconsin Breast Cancer Dataset
 
 This repository contains various experiments with supervised machine learning models on the Wisconsin Breast Cancer dataset.
