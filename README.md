@@ -45,6 +45,7 @@ To run the code in this repository, ensure you have the following dependencies i
 - Seaborn
 - Statsmodels
 You can install the required packages using:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -71,23 +72,41 @@ pip install -r requirements.txt
 ```
 
 # Run the regression analysis
+Run the regression analysis:
 
-Execute the script for the regression study:
+  Convert the notebook to a script and execute it:
 
 ```bash
+jupyter nbconvert --to script regression_analysis.ipynb
 python regression_analysis.py
 ```
 
-This script will perform linear regression on the dataset and evaluate the impact of different training set sizes on model performance.
-Run the classification analysis
+Alternatively, run the notebook directly:
 
-Execute the script for the classification study:
+Firstly you need to install papermill:
 
 ```bash
+pip install papermill
+```
+
+```bash
+papermill regression_analysis.ipynb output_regression.ipynb
+```bash
+
+Run the classification analysis:
+
+Convert the notebook to a script and execute it:
+
+```bash
+jupyter nbconvert --to script classification_analysis.ipynb
 python classification_analysis.py
 ```
 
-This script will apply various supervised learning algorithms to predict the diagnosis based on tumor characteristics and identify the best-performing model.
+Alternatively, run the notebook directly:
+
+```bash
+papermill classification_analysis.ipynb output_classification.ipynb
+```
 
 ### Results
 Regression Study
