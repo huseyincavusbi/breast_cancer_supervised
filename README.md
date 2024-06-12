@@ -37,13 +37,14 @@ This project aims to explore and analyze the Wisconsin Breast Cancer dataset usi
 
 To run the code in this repository, ensure you have the following dependencies installed:
 
-- Python 3.x
-- Pandas
-- Scikit-learn
-- NumPy
-- Matplotlib
-- Seaborn
-- Statsmodels
+- Python 3.10.13
+- Pandas 2.2.1
+- Scikit-learn 1.5.0
+- NumPy 1.26.4
+- Matplotlib 3.8.3
+- Seaborn 0.13.2
+- Statsmodels 0.14.1
+
 You can install the required packages using:
 
 ```bash
@@ -91,7 +92,7 @@ pip install papermill
 
 ```bash
 papermill regression_analysis.ipynb output_regression.ipynb
-```bash
+```
 
 Run the classification analysis:
 
