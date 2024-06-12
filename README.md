@@ -128,7 +128,7 @@ git commit -m 'Add new feature'
 
 ```bash
 git push origin feature-name
-```bash
+```
 
 ### License
 
