@@ -111,25 +111,25 @@ Classification Study
 
 I am open to any criticism and contribution to this project! To contribute:
 
-    Fork the repository.
-    Create a new branch for your feature or bugfix:
+  Fork the repository.
+  Create a new branch for your feature or bugfix:
 
 ```bash
 git checkout -b feature-name
 ```
 
-    Commit your changes:
+  Commit your changes:
 
 ```bash
 git commit -m 'Add new feature'
 ```
 
-    Push to the branch:
+  Push to the branch:
 
 ```bash
 git push origin feature-name
 ```bash
 
-License
+### License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
