@@ -54,32 +54,42 @@ pip install -r requirements.txt
 To use the code in this repository, follow these steps:
 Clone the repository
 
+```bash
 git clone https://github.com/yourusername/breast_cancer_supervised.git
+```
 
 Navigate to the project directory
 
+```bash
 cd breast_cancer_supervised
+```
 
 Install the required dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-Run the regression analysis
+# Run the regression analysis
 
 Execute the script for the regression study:
 
+```bash
 python regression_analysis.py
+```
 
 This script will perform linear regression on the dataset and evaluate the impact of different training set sizes on model performance.
 Run the classification analysis
 
 Execute the script for the classification study:
 
+```bash
 python classification_analysis.py
+```
 
 This script will apply various supervised learning algorithms to predict the diagnosis based on tumor characteristics and identify the best-performing model.
 
-###Results
+### Results
 Regression Study
 
     Objective: Investigate the influence of other tumor features on the mean radius.
@@ -104,17 +114,21 @@ I am open to any criticism and contribution to this project! To contribute:
     Fork the repository.
     Create a new branch for your feature or bugfix:
 
+```bash
 git checkout -b feature-name
+```
 
     Commit your changes:
 
+```bash
 git commit -m 'Add new feature'
+```
 
     Push to the branch:
 
+```bash
 git push origin feature-name
-
-    Open a pull request with a detailed description of your changes.
+```bash
 
 License
 
