@@ -12,6 +12,7 @@ This repository contains various experiments with supervised machine learning mo
 6. [Results](#results)
 7. [Contributing](#contributing)
 8. [License](#license)
+9. [Acknowledgements](#acknowledgements)
 
 ### Introduction
 
@@ -151,3 +152,16 @@ git push origin feature-name
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Acknowledgements
+I would like to thank everyone who contributed to the language/packages and dataset I used in this project.
+
+Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.. (1995). Breast Cancer Wisconsin (Diagnostic). UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.
+
+@misc{misc_breast_cancer_wisconsin_(diagnostic)_17,
+  author       = {Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.},
+  title        = {{Breast Cancer Wisconsin (Diagnostic)}},
+  year         = {1995},
+  howpublished = {UCI Machine Learning Repository},
+  note         = {{DOI}: https://doi.org/10.24432/C5DW2B}
+}
