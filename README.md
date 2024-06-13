@@ -13,6 +13,7 @@ This repository contains various experiments with supervised machine learning mo
 7. [Contributing](#contributing)
 8. [License](#license)
 9. [Acknowledgements](#acknowledgements)
+10. [Contact](#contact)
 
 ### Introduction
 
