@@ -157,11 +157,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 I would like to thank everyone who contributed to the language/packages and dataset I used in this project.
 
 Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.. (1995). Breast Cancer Wisconsin (Diagnostic). UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.
-
-@misc{misc_breast_cancer_wisconsin_(diagnostic)_17,
-  author       = {Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.},
-  title        = {{Breast Cancer Wisconsin (Diagnostic)}},
-  year         = {1995},
-  howpublished = {UCI Machine Learning Repository},
-  note         = {{DOI}: https://doi.org/10.24432/C5DW2B}
-}
