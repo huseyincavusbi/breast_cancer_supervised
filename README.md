@@ -128,7 +128,8 @@ Classification Study
 
 ### Contributing
 
-I am open to any criticism and contribution to this project! To contribute:
+I am open to any criticism and contribution to this project! 
+To contribute:
 
   Fork the repository.
   Create a new branch for your feature or bugfix:
@@ -151,7 +152,7 @@ git push origin feature-name
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file(./LICENSE) for more details.
+This project is licensed under the MIT License. See the [LICENSE file](./LICENSE) for more details.
 
 ### Acknowledgements
 I would like to thank everyone who contributed to the language/packages and dataset I used in this project.
