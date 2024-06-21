@@ -7,13 +7,11 @@ This repository contains various experiments with supervised machine learning mo
 1. [Introduction](#introduction)
 2. [Regression Study](#regression-study)
 3. [Classification Study](#classification-study)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
-10. [Contact](#contact)
+4. [Results](#results)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Acknowledgements](#acknowledgements)
+8. [Contact](#contact)
 
 ### Introduction
 
@@ -36,77 +34,6 @@ This project aims to explore and analyze the Wisconsin Breast Cancer dataset usi
   - Define the features most associated with the diagnosis of **a malignant mass.**
   - Determine the **outstanding algorithm** for diagnosis prediction.
   - Identify features most associated with the diagnosis of a **malignant mass**.
-
-### Installation
-
-To run the code in this repository, ensure you have the following dependencies installed:
-
-- Python 3.10.13
-- Pandas 2.2.1
-- Scikit-learn 1.5.0
-- NumPy 1.26.4
-- Matplotlib 3.8.3
-- Seaborn 0.13.2
-- Statsmodels 0.14.1
-
-### Usage
-
-To use the code in this repository, follow these steps:
-
-Clone the repository
-
-```bash
-git clone https://github.com/huseyincavusbi/breast_cancer_supervised.git
-```
-
-Navigate to the project directory
-
-```bash
-cd breast_cancer_supervised
-```
-
-Install the required dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-# Run the regression analysis
-Run the regression analysis:
-
-  Convert the notebook to a script and execute it:
-
-```bash
-jupyter nbconvert --to script wisconsin_lnr_reg.ipynb
-python wisconsin_lnr_reg.ipynb
-```
-
-Alternatively, run the notebook directly:
-
-  Firstly you need to install papermill:
-
-```bash
-pip install papermill
-```
-
-```bash
-papermill wisconsin_lnr_reg.ipynb output_regression.ipynb
-```
-
-Run the classification analysis:
-
-Convert the notebook to a script and execute it:
-
-```bash
-jupyter nbconvert --to script wisconsin_models_reg.ipynb
-python wisconsin_models_reg.ipynb
-```
-
-Alternatively, run the notebook directly with papermill:
-
-```bash
-papermill wisconsin_models_reg.ipynb output_classification.ipynb
-```
 
 ### Results
 Regression Study
