@@ -112,7 +112,7 @@ papermill classification_analysis.ipynb output_classification.ipynb
 Regression Study
 
     Objective: Investigate the influence of other tumor features on the mean radius.
-    Methods: Two linear regression models with different training set sizes.
+    Methods: Two Linear Regression models with different training set sizes.
     Key Findings:
         Model performance varies with training set size.
         The features that most/least or positively/negatively affect the mean radius feature were identified.
