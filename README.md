@@ -77,8 +77,8 @@ Run the regression analysis:
   Convert the notebook to a script and execute it:
 
 ```bash
-jupyter nbconvert --to script regression_analysis.ipynb
-python regression_analysis.py
+jupyter nbconvert --to script wisconsin_lnr_reg.ipynb
+python wisconsin_lnr_reg.ipynb
 ```
 
 Alternatively, run the notebook directly:
@@ -90,7 +90,7 @@ pip install papermill
 ```
 
 ```bash
-papermill regression_analysis.ipynb output_regression.ipynb
+papermill wisconsin_lnr_reg.ipynb output_regression.ipynb
 ```
 
 Run the classification analysis:
@@ -98,14 +98,14 @@ Run the classification analysis:
 Convert the notebook to a script and execute it:
 
 ```bash
-jupyter nbconvert --to script classification_analysis.ipynb
-python classification_analysis.py
+jupyter nbconvert --to script wisconsin_models_reg.ipynb
+python wisconsin_models_reg.ipynb
 ```
 
 Alternatively, run the notebook directly with papermill:
 
 ```bash
-papermill classification_analysis.ipynb output_classification.ipynb
+papermill wisconsin_models_reg.ipynb output_classification.ipynb
 ```
 
 ### Results
