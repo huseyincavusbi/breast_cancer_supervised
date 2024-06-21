@@ -56,7 +56,7 @@ To use the code in this repository, follow these steps:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/breast_cancer_supervised.git
+git clone https://github.com/huseyincavusbi/breast_cancer_supervised.git
 ```
 
 Navigate to the project directory
