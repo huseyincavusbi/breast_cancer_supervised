@@ -38,7 +38,7 @@ This project aims to explore and analyze the Wisconsin Breast Cancer dataset usi
 Regression Study
 
     Objective: Investigate the influence of other tumor features on the mean radius.
-    Methods: Two Linear Regression models with different training set sizes.
+    Methods: Two Linear Regression models with different training set sizes were employed.
     Key Findings:
         Model performance varies with training set size.
         The features that most/least or positively/negatively affect the mean radius feature were identified.
