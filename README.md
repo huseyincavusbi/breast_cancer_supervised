@@ -23,7 +23,6 @@ This project aims to explore and analyze the Wisconsin Breast Cancer dataset usi
 - **Methods**: Two linear regression models were utilized.
 - **Approach**:
   - Determine the feature that **most affects** the mean radius
-  - Evaluate the performance of the two models with different training set sizes.
   - Analyze how the **change in training set size** impacts model performance.
 
 ### Classification Study
