@@ -33,7 +33,7 @@ This project aims to explore and analyze the Wisconsin Breast Cancer dataset usi
 - **Approach**:
   - Define the features most associated with the diagnosis of **a malignant mass.**
   - Determine the **outstanding algorithm** for diagnosis prediction.
-  - Identify features most associated with the diagnosis of a **malignant mass**.
+
 
 ### Results
 Regression Study
