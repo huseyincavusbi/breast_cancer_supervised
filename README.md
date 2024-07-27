@@ -42,7 +42,7 @@ Regression Study
     Key Findings:
         Model performance varies with training set size.
         The features that most/least or positively/negatively affect the mean radius feature were identified.
-        Detailed results and performance metrics (e.g., R², MAE) can be found in the [wisconsin_lnr_reg.ipynb](./wisconsin_lnr_reg.ipynb)  [LICENSE file](./LICENSE) file.
+        Detailed results and performance metrics (e.g., R², MAE) can be found in the wisconsin_lnr_reg.ipynb file.
         
 Classification Study
 
@@ -51,7 +51,7 @@ Classification Study
     Key Findings:
         The best performing algorithm was identified based on classification reports and graphs.
         Important features associated with malignant diagnoses highlighted.
-        Detailed results and performance metrics can be found in the wisconsin_models.ipynb file in the wisconsin_classification folder
+        Detailed results and performance metrics can be found in the wisconsin_models.ipynb file.
 
 ### Contributing
 
