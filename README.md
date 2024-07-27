@@ -42,8 +42,8 @@ Regression Study
     Key Findings:
         Model performance varies with training set size.
         The features that most/least or positively/negatively affect the mean radius feature were identified.
-        Detailed results and performance metrics (e.g., R², MAE) can be found in the wisconsin_lnr_reg.ipynb file in the wisconsin_regression folder
-
+        Detailed results and performance metrics (e.g., R², MAE) can be found in the [wisconsin_lnr_reg.ipynb](./wisconsin_lnr_reg.ipynb) file.
+        
 Classification Study
 
     Objective: Predict the diagnosis (benign or malignant) based on tumor features.
