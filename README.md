@@ -91,5 +91,5 @@ Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.. (1995). Breast Ca
 If you have any questions, suggestions or topics you would like to discuss, feel free to contact me:
 
 - **Linkedin:** [LinkedIn](https://www.linkedin.com/in/huseyincavus/)
-- **Email:** [huseyincavus@tuta.io](mailto:huseyincavus@tuta.io)
+- **Email:** [huseyincavus@proton.me](mailto:huseyincavus@proton.me)
 - **GitHub Issues:** [Project Issues](https://github.com/huseyincavusbi/breast_cancer_supervised/issues)
